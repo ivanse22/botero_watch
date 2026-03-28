@@ -42,4 +42,10 @@ public final class WallNumberViewModel: ObservableObject {
         resolved = nil
         clearEntry()
     }
+
+    public func preloadFromArtworkId(_ id: String?) {
+        guard let id, !id.isEmpty else { return }
+        digits = id
+        showNotFound = false
+    }
 }
