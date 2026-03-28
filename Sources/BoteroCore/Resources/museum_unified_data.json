@@ -1,0 +1,430 @@
+{
+  "version": 1,
+  "generatedAt": "2026-03-28T17:41:47.508Z",
+  "source": {
+    "webRoot": "/Users/CJ/.gemini/antigravity/scratch/botero_watch/botero-app-reference",
+    "appPath": "/Users/CJ/.gemini/antigravity/scratch/botero_watch/botero-app-reference/src/App.jsx"
+  },
+  "obras": [
+    {
+      "id": "01",
+      "wallNumber": "01",
+      "titulo": "Mona Lisa",
+      "año": "1977",
+      "tecnica": "Óleo sobre lienzo",
+      "sala": "Sala 1A",
+      "piso": 1,
+      "desc": "La interpretación más volumétrica y sensual del mito de Da Vinci. Botero transforma el icono universal en una figura colombiana de cuerpo monumental.",
+      "iaRespuesta": "Esta obra pertenece al Figurativismo colombiano, el lenguaje propio de Fernando Botero. El estilo se caracteriza por figuras de proporciones exageradas que subvierten el original renacentista con humor e ironía. La paleta cálida de tierras y ocres es inconfundiblemente latinoamericana. Botero no imita a Da Vinci: lo comenta, lo cuestiona y lo apropia.",
+      "coordenadasSala": {
+        "x": 94,
+        "y": 205
+      }
+    },
+    {
+      "id": "02",
+      "wallNumber": "02",
+      "titulo": "Mujer con espejo",
+      "año": "1994",
+      "tecnica": "Óleo sobre lienzo",
+      "sala": "Sala 2",
+      "piso": 1,
+      "desc": "Una reflexión sobre la vanidad y la belleza. La figura envolvente se contempla a sí misma con la candidez propia del universo Botero.",
+      "iaRespuesta": "El estilo es el Figurativismo volumétrico característico de Botero. La composición dialoga con la tradición barroca de la vanitas, pero la ironía suaviza toda moralización. La figura redonda y simétrica ocupa casi todo el plano pictórico, eliminando jerarquías. El tratamiento de la luz es suave y difuso, heredero del claroscuro italiano.",
+      "coordenadasSala": {
+        "x": 94,
+        "y": 145
+      }
+    },
+    {
+      "id": "03",
+      "wallNumber": "03",
+      "titulo": "La familia",
+      "año": "1999",
+      "tecnica": "Óleo sobre lienzo",
+      "sala": "Sala 3",
+      "piso": 1,
+      "desc": "Retrato colectivo de la familia latinoamericana. Cuerpos exuberantes que transmiten calor, humor y una mirada tierna sobre la vida cotidiana.",
+      "iaRespuesta": "Obra del Figurativismo colombiano con raíces en el retrato de familia renacentista. Botero adopta la estructura compositiva del retrato grupal flamenco pero lo rellena de cuerpos que desbordan el marco. La paleta es intensa y terrosa. Temáticamente es una celebración de la vida doméstica latinoamericana, sin idealización pero con genuino afecto.",
+      "coordenadasSala": {
+        "x": 144,
+        "y": 86
+      }
+    },
+    {
+      "id": "04",
+      "wallNumber": "04",
+      "titulo": "Naturaleza muerta",
+      "año": "1980",
+      "tecnica": "Óleo sobre lienzo",
+      "sala": "Sala 4",
+      "piso": 1,
+      "desc": "Frutas, instrumentos y objetos cotidianos elevados a monumentos. La escala y el volumen transforman lo ordinario en extraordinario.",
+      "iaRespuesta": "El género es la naturaleza muerta, pero Botero lo transforma radicalmente: los objetos adquieren una escala monumental que los convierte en protagonistas casi arquitectónicos. El estilo recuerda a Cézanne en la atención a la geometría, pero el resultado es propio: voluminoso, sensual y deliberadamente exagerado.",
+      "coordenadasSala": {
+        "x": 194,
+        "y": 86
+      }
+    },
+    {
+      "id": "05",
+      "wallNumber": "05",
+      "titulo": "La bailarina",
+      "año": "1987",
+      "tecnica": "Óleo sobre lienzo",
+      "sala": "Sala 5",
+      "piso": 1,
+      "desc": "La gracia en toda su contradicción: una figura colosal que danza con una ligereza sorprendente. El movimiento capturado en la quietud de la pintura.",
+      "iaRespuesta": "Botero retoma el tema de la bailarina, popularizado por Degas, y lo reinventa desde el Figurativismo. La tensión central es formal: una figura de peso monumental representada en una postura de extrema ligereza. Este oxímoron visual es el núcleo conceptual de la obra. La técnica al óleo es precisa, de acabado suave y superficie uniforme.",
+      "coordenadasSala": {
+        "x": 244,
+        "y": 145
+      }
+    },
+    {
+      "id": "06",
+      "wallNumber": "06",
+      "titulo": "El presidente",
+      "año": "1967",
+      "tecnica": "Óleo sobre lienzo",
+      "sala": "Sala 5A",
+      "piso": 1,
+      "desc": "Sátira política con maestría técnica. La figura de autoridad hinchada de poder, retratada con la ironía característica del Maestro.",
+      "iaRespuesta": "Es una de las obras más abiertamente políticas de Botero. El estilo sigue el Figurativismo volumétrico, pero aquí la exageración tiene una función satírica explícita: la inflación física del cuerpo es metáfora directa de la corrupción y el abuso de poder. La composición es frontal y solemne, parodiando el retrato oficial.",
+      "coordenadasSala": {
+        "x": 244,
+        "y": 205
+      }
+    },
+    {
+      "id": "07",
+      "wallNumber": "07",
+      "titulo": "Venus",
+      "año": "1990",
+      "tecnica": "Mármol blanco",
+      "sala": "Patio Central",
+      "piso": 1,
+      "desc": "Escultura de mármol blanco italiano que reinterpreta el clásico desnudo femenino. La voluptuosidad elevada a ideal de belleza universal.",
+      "iaRespuesta": "Escultura en mármol de Carrara que dialoga directamente con la Venus de Milo y la tradición clásica europea. El estilo translada el Figurativismo de Botero al volumen tridimensional: la superficie pulida y los contornos suaves amplifican la sensación de masa. Es una de sus piezas más universales en cuanto a referentes culturales.",
+      "coordenadasSala": {
+        "x": 155,
+        "y": 155
+      }
+    },
+    {
+      "id": "08",
+      "wallNumber": "08",
+      "titulo": "Hombre a caballo",
+      "año": "1992",
+      "tecnica": "Bronce patinado",
+      "sala": "Patio Central",
+      "piso": 1,
+      "desc": "Bronce monumental que evoca la tradición ecuestre latinoamericana. Jinete y animal se funden en una masa poderosa y serena.",
+      "iaRespuesta": "Escultura en bronce de escala heroica que dialoga con la estatuaria ecuestre barroca y renacentista. Botero retoma el símbolo del poder político latinoamericano, el general a caballo, y lo despoja de agresividad: la monumentalidad se torna cómica y cercana. La textura del bronce patinado oscurece y enriquece la superficie.",
+      "coordenadasSala": {
+        "x": 185,
+        "y": 155
+      }
+    },
+    {
+      "id": "09",
+      "wallNumber": "09",
+      "titulo": "Pedro Páramo",
+      "año": "1989",
+      "tecnica": "Óleo sobre lienzo",
+      "sala": "Sala 7",
+      "piso": 2,
+      "desc": "Homenaje al universo de Juan Rulfo. Los habitantes de Comala toman cuerpo en la paleta cálida y espesa del Maestro.",
+      "iaRespuesta": "Obra de intertextualidad literaria: Botero toma como punto de partida la novela de Juan Rulfo y construye una visualización plástica de sus personajes. El estilo mantiene el Figurativismo pero con una paleta más seca y polvorienta, consonante con el paisaje árido de Comala. Es una obra que demuestra la relación de Botero con la literatura latinoamericana.",
+      "coordenadasSala": {
+        "x": 85,
+        "y": 185
+      }
+    },
+    {
+      "id": "10",
+      "wallNumber": "10",
+      "titulo": "La corrida",
+      "año": "1984",
+      "tecnica": "Óleo sobre lienzo",
+      "sala": "Sala 7A",
+      "piso": 2,
+      "desc": "La tauromaquia como ritual y tragedia. Botero captura el drama del ruedo con una paleta de tierra y sangre que hipnotiza.",
+      "iaRespuesta": "Botero abordó la tauromaquia en múltiples obras a lo largo de su carrera. El estilo aquí es más dinámico que en sus composiciones estáticas habituales: hay tensión en la composición, frente al estatismo habitual del Figurativismo. La paleta, de ocres, rojos y sombras, intensifica el drama ritual. Es una obra que conecta con la tradición española de Goya y la escuela sevillana.",
+      "coordenadasSala": {
+        "x": 85,
+        "y": 126
+      }
+    },
+    {
+      "id": "11",
+      "wallNumber": "11",
+      "titulo": "Los músicos",
+      "año": "1979",
+      "tecnica": "Óleo sobre lienzo",
+      "sala": "Sala 8",
+      "piso": 2,
+      "desc": "Una celebración de la música popular latinoamericana. Los intérpretes de cuerpos amplios generan una armonía visual y sonora a la vez.",
+      "iaRespuesta": "Obra del período maduro de Botero, con una composición grupal que recuerda a las escenas de género flamencas del siglo XVII. Los músicos son populares, no virtuosos académicos: el acordeón y la guitarra sitúan la escena en el folclor colombiano. El Figurativismo aquí tiene una dimensión festiva y comunitaria, diferente a las obras de crítica política.",
+      "coordenadasSala": {
+        "x": 85,
+        "y": 67
+      }
+    },
+    {
+      "id": "12",
+      "wallNumber": "12",
+      "titulo": "El senador",
+      "año": "1994",
+      "tecnica": "Óleo sobre lienzo",
+      "sala": "Sala 9",
+      "piso": 2,
+      "desc": "Retrato de poder y corrupción. La figura del político engorda de privilegios en la mirada crítica y humorística de Botero.",
+      "iaRespuesta": "Continuación temática de 'El presidente', con la misma función satírica. El senador está representado con todos los atributos del poder: el traje, la postura, la gordura. El Figurativismo amplifica estos signos hasta hacerlos caricatura. Es una obra que pertenece al diálogo que Botero mantiene permanentemente con el poder político latinoamericano.",
+      "coordenadasSala": {
+        "x": 166,
+        "y": 67
+      }
+    },
+    {
+      "id": "13",
+      "wallNumber": "13",
+      "titulo": "La colombiana",
+      "año": "2001",
+      "tecnica": "Óleo sobre lienzo",
+      "sala": "Sala 10",
+      "piso": 2,
+      "desc": "Celebración de la femineidad latinoamericana. La mujer protagonista de esta obra irradia presencia, orgullo y sensualidad.",
+      "iaRespuesta": "Retrato femenino individual del período tardío de Botero. La obra condensa muchos de los temas recurrentes del artista: la mujer latinoamericana, la sensualidad, el color y la presencia física. El fondo neutro y la postura frontal recogen la tradición del retrato renacentista. La paleta es más saturada que en obras anteriores, reflejo de la madurez colorística de Botero.",
+      "coordenadasSala": {
+        "x": 252,
+        "y": 67
+      }
+    },
+    {
+      "id": "14",
+      "wallNumber": "14",
+      "titulo": "Naturaleza viva",
+      "año": "1998",
+      "tecnica": "Acrílico sobre tela",
+      "sala": "Sala 11",
+      "piso": 2,
+      "desc": "Flores y objetos que palpitan con vida propia. Una exploración del color y el volumen que desafía la quietud del género.",
+      "iaRespuesta": "Botero emplea aquí el acrílico, inusual en su práctica habitual de gama oleosa. El resultado es un cromatismo más luminoso y saturado. El género es la naturaleza muerta floral, pero las flores de Botero tienen una carnalidad casi animal: son seres vivos que irradian presencia. Es una de sus obras más próximas al expresionismo colorístico.",
+      "coordenadasSala": {
+        "x": 255,
+        "y": 126
+      }
+    },
+    {
+      "id": "15",
+      "wallNumber": "15",
+      "titulo": "El desfile",
+      "año": "2003",
+      "tecnica": "Óleo sobre lienzo",
+      "sala": "Sala 11A",
+      "piso": 2,
+      "desc": "Una procesión festiva de figuras monumentales. Botero captura la tradición popular colombiana con humor y afecto.",
+      "iaRespuesta": "Composición horizontal de escena procesional, deudora de los murales mexicanos de Diego Rivera. Botero comparte con los muralistas el interés por la vida popular y la identidad latinoamericana, pero abandona el énfasis ideológico. El desfile es festivo, comunitario, entrañable. El Figurativismo aquí deja paso a una narración coral y horizontal.",
+      "coordenadasSala": {
+        "x": 255,
+        "y": 185
+      }
+    },
+    {
+      "id": "16",
+      "wallNumber": "16",
+      "titulo": "Retrato de familia",
+      "año": "2002",
+      "tecnica": "Óleo sobre lienzo",
+      "sala": "Sala 12",
+      "piso": 2,
+      "desc": "La familia como microcosmos social. Una composición que equilibra la ternura y la sátira en la tradición del retrato clásico.",
+      "iaRespuesta": "Retrato grupal del período tardío que sintetiza décadas de exploración del tema familiar. La composición es más compleja que en 'La familia' de 1999: hay mayor diferenciación entre los personajes y una gestualidad más rica. El estilo mantiene el Figurativismo volumétrico pero con una pincelada más suelta y una paleta más refinada, propio de la madurez del artista.",
+      "coordenadasSala": {
+        "x": 250,
+        "y": 240
+      }
+    }
+  ],
+  "routeGraph": {
+    "map": {
+      "width": 340,
+      "height": 280,
+      "metersPerUnit": 0.11,
+      "defaultStartNodeId": "07"
+    },
+    "nodes": [
+      {
+        "id": "01",
+        "artworkId": "01",
+        "x": 94,
+        "y": 205
+      },
+      {
+        "id": "02",
+        "artworkId": "02",
+        "x": 94,
+        "y": 145
+      },
+      {
+        "id": "03",
+        "artworkId": "03",
+        "x": 144,
+        "y": 86
+      },
+      {
+        "id": "04",
+        "artworkId": "04",
+        "x": 194,
+        "y": 86
+      },
+      {
+        "id": "05",
+        "artworkId": "05",
+        "x": 244,
+        "y": 145
+      },
+      {
+        "id": "06",
+        "artworkId": "06",
+        "x": 244,
+        "y": 205
+      },
+      {
+        "id": "07",
+        "artworkId": "07",
+        "x": 155,
+        "y": 155
+      },
+      {
+        "id": "08",
+        "artworkId": "08",
+        "x": 185,
+        "y": 155
+      },
+      {
+        "id": "09",
+        "artworkId": "09",
+        "x": 85,
+        "y": 185
+      },
+      {
+        "id": "10",
+        "artworkId": "10",
+        "x": 85,
+        "y": 126
+      },
+      {
+        "id": "11",
+        "artworkId": "11",
+        "x": 85,
+        "y": 67
+      },
+      {
+        "id": "12",
+        "artworkId": "12",
+        "x": 166,
+        "y": 67
+      },
+      {
+        "id": "13",
+        "artworkId": "13",
+        "x": 252,
+        "y": 67
+      },
+      {
+        "id": "14",
+        "artworkId": "14",
+        "x": 255,
+        "y": 126
+      },
+      {
+        "id": "15",
+        "artworkId": "15",
+        "x": 255,
+        "y": 185
+      },
+      {
+        "id": "16",
+        "artworkId": "16",
+        "x": 250,
+        "y": 240
+      }
+    ],
+    "edges": [
+      {
+        "from": "01",
+        "to": "02"
+      },
+      {
+        "from": "02",
+        "to": "07"
+      },
+      {
+        "from": "03",
+        "to": "04"
+      },
+      {
+        "from": "03",
+        "to": "07"
+      },
+      {
+        "from": "04",
+        "to": "07"
+      },
+      {
+        "from": "04",
+        "to": "08"
+      },
+      {
+        "from": "05",
+        "to": "06"
+      },
+      {
+        "from": "05",
+        "to": "08"
+      },
+      {
+        "from": "06",
+        "to": "08"
+      },
+      {
+        "from": "07",
+        "to": "08"
+      },
+      {
+        "from": "07",
+        "to": "09"
+      },
+      {
+        "from": "09",
+        "to": "10"
+      },
+      {
+        "from": "10",
+        "to": "11"
+      },
+      {
+        "from": "11",
+        "to": "12"
+      },
+      {
+        "from": "12",
+        "to": "13"
+      },
+      {
+        "from": "13",
+        "to": "14"
+      },
+      {
+        "from": "14",
+        "to": "15"
+      },
+      {
+        "from": "15",
+        "to": "16"
+      }
+    ]
+  }
+}
